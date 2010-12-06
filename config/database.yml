@@ -1,0 +1,21 @@
+common: &common
+  adapter: mysql2
+  host: localhost
+  username: <%= ENV['USERNAME'] ? ENV['USERNAME'] : "root" %>
+  password: <%= ENV['PASSWORD'] ? ENV['PASSWORD'] : "password" %>
+
+development: &development
+  <<: *common
+  database: bigeye_dev
+
+demo:
+  <<: *common
+  database: bigeye_demo
+
+test: &test
+  <<: *common
+  database: bigeye_test
+
+production:
+  <<: *common
+  database: bigeye_production
