@@ -1,6 +1,7 @@
 module ApplicationHelper
   def replacing_content(&block)
-    raw("$('#scpz .content').html('#{escape_javascript(capture(&block))}');")
+
+    raw("SCPZ.$('#scpz .content').html('#{escape_javascript(capture(&block))}');")
   end
 
   def serving_js(&block)

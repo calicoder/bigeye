@@ -45,16 +45,16 @@
       <file leaf-file-name="show.js.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/homes/show.js.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="157" selection-end="157" vertical-scroll-proportion="-1.4901961">
+            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_show.js.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_show.js.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/homes/_show.js.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+            <state line="0" column="66" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -96,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_helper.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application_helper.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="-0.7916667">
+            <state line="3" column="14" selection-start="72" selection-end="72" vertical-scroll-proportion="0.079943895">
               <folding />
             </state>
           </provider>
@@ -116,7 +116,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/homes/_show.html.haml" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/controllers/homes_controller.rb" />
@@ -124,6 +123,7 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/homes/show.js.erb" />
         <option value="$PROJECT_DIR$/app/views/homes/_show.js.erb" />
+        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
       </list>
     </option>
   </component>
@@ -513,13 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="48" selection-end="48" vertical-scroll-proportion="-0.7916667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="-3.1666667">
@@ -548,6 +541,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/homes/_show.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="66" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/homes/_show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="9" selection-start="41" selection-end="41" vertical-scroll-proportion="-2.375">
@@ -557,14 +557,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/homes/show.js.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="157" selection-end="157" vertical-scroll-proportion="-1.4901961">
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/homes/_show.js.erb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+        <state line="3" column="14" selection-start="72" selection-end="72" vertical-scroll-proportion="0.079943895">
           <folding />
         </state>
       </provider>
