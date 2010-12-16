@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd33a5cf-ba85-4acd-b1d4-a538fe172eb1" name="Default" comment="add idea to gitignore">
+    <list default="true" id="fd33a5cf-ba85-4acd-b1d4-a538fe172eb1" name="Default" comment="workspace.xml check in">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bigeye.iws" />
@@ -101,7 +101,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="229" selection-end="229" vertical-scroll-proportion="0.49565217">
+            <state line="9" column="9" selection-start="152" selection-end="152" vertical-scroll-proportion="0.2973913">
               <folding />
             </state>
           </provider>
@@ -491,7 +491,7 @@
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="spec set up" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml check in" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -507,6 +507,7 @@
     <MESSAGE value="add idea to gitignore" />
     <MESSAGE value="check in idea file" />
     <MESSAGE value="spec set up" />
+    <MESSAGE value="workspace.xml check in" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -602,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="229" selection-end="229" vertical-scroll-proportion="0.49565217">
+        <state line="9" column="9" selection-start="152" selection-end="152" vertical-scroll-proportion="0.2973913">
           <folding />
         </state>
       </provider>
