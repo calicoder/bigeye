@@ -1,1 +1,21 @@
-alert("i am watching you!!");
+BigEye = {
+    init : function() {
+        alert("test this yoyo!!");
+    },
+
+    bigeasy : function() {
+        var self = this;
+        $('*').each(function(){
+            $(this).draggable();
+        });
+    },
+
+    bigdraggable : function() {
+        var self = this;
+        $('*').each(function(){
+            $(this).draggable();
+        });
+    }
+};
+
+BigEye.bigeasy();
